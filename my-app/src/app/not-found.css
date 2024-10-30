@@ -1,0 +1,8 @@
+.centrar{
+    height: calc(100vh - 60px);
+    display: flex;
+    justify-content: center;
+    /*funciona cuando esta el display:f:flex*/
+    align-items: center;
+    flex-direction:column;
+}
